@@ -14,7 +14,7 @@ A passionate full-stack developer who loves building modern, responsive, and use
 ## 🧰 Tech Stack
 
 - **👩‍💻 Languages:**  
-  `HTML` `CSS` `JavaScript` `PHP` `C` `C++` `Python`
+  `HTML` `CSS` `JavaScript`  `TypeScript` `PHP` `C` `C++` `Python`
 
 - **📚 Frameworks & Libraries:**  
   `Bootstrap` `Express.js` `Laravel` `React.js` `Tailwind CSS` `Node.js` `Next.js`
