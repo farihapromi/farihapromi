@@ -9,35 +9,27 @@ A passionate full-stack developer who loves building modern, responsive, and use
 - 🎯 I enjoy solving real-world problems through clean and efficient code
 - 💡 Always eager to explore new tools, libraries, and frameworks to grow as a developer
 
-  ## 🧰 Tech Stack
+## 🧰 Tech Stack
 
-### 🖥️ Languages
-HTML, CSS, JavaScript, PHP, C, C++, Python
+- **👩‍💻 Languages:**  
+  `HTML` `CSS` `JavaScript` `PHP` `C` `C++` `Python`
 
-### ⚙️ Frameworks & Libraries
-Bootstrap, Express.js, Laravel, React.js, Tailwind CSS, Node.js, Next.js
+- **📚 Frameworks & Libraries:**  
+  `Bootstrap` `Express.js` `Laravel` `React.js` `Tailwind CSS` `Node.js` `Next.js`
 
-### 🗄️ Database
-MySQL, MongoDB
+- **💾 Databases:**  
+  `MySQL` `MongoDB`
 
-### 🛠️ Tools
-Trello, Slack, Figma, Postman, Jira, Git
-
-
-Let's connect and build something great together!
+- **🧪 Tools:**  
+  `Trello` `Slack` `Figma` `Postman` `Jira` `Git`
 
 
-<!--
-**farihapromi/farihapromi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Let's Connect
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/fariha-promi-b5baa619b/)
+- 🌐 [Portfolio](https://farihapromi.netlify.app/)
+- 📧 Email:farihapromi2611@gmail.com
+- 💻 [GitHub](https://github.com/farihapromi)
+
