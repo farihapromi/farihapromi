@@ -4,7 +4,9 @@
 
 A passionate full-stack developer who loves building modern, responsive, and user-friendly web applications.
 
-- 🌱 I’m currently learning **Next.js**, **TypeScript**, and diving deeper into **backend development**
+- 🚀 I’ve built and deployed full-stack applications using **Next.js**, **TypeScript**, **Node.js**
+- 💻 I have solid experience with **React.js** and **JavaScript**, and have built multiple responsive, dynamic web applications using these technologies.
+
 - 💼 I’ve worked on projects involving **MERN stack**, **authentication systems**, and **RESTful APIs**
 - 🎯 I enjoy solving real-world problems through clean and efficient code
 - 💡 Always eager to explore new tools, libraries, and frameworks to grow as a developer
@@ -21,7 +23,7 @@ A passionate full-stack developer who loves building modern, responsive, and use
   `MySQL` `MongoDB`
 
 - **🧪 Tools:**  
-  `Trello` `Slack` `Figma` `Postman` `Jira` `Git`
+  `Trello` `Slack` `Figma` `Postman` `Jira` `Git`,`Docker`
 
 
 ## 🤝 Let's Connect
