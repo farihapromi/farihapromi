@@ -14,16 +14,16 @@ A passionate full-stack developer who loves building modern, responsive, and use
 ## 🧰 Tech Stack
 
 - **👩‍💻 Languages:**  
-  `HTML` `CSS` `JavaScript`  `TypeScript` `PHP` `C` `C++` `Python`
+  `HTML` `CSS` `JavaScript` `TypeScript` `PHP` `C` `C++` `Python` `GO`
 
 - **📚 Frameworks & Libraries:**  
-  `Bootstrap` `Express.js` `Laravel` `React.js` `Tailwind CSS` `Node.js` `Next.js`
+  `React.js` `Express.js` `Laravel` `Node.js` `Next.js`  `Tailwind CSS` 
 
 - **💾 Databases:**  
-  `MySQL` `MongoDB`
+  `MySQL` `MongoDB` `PostgreSQL`
 
 - **🧪 Tools:**  
-  `Trello` `Slack` `Figma` `Postman` `Jira` `Git`,`Docker`
+  `Trello` `Slack` `Figma` `Postman` `Jira` `Git` `Docker` `CI\CD`
 
 
 ## 🤝 Let's Connect
@@ -31,7 +31,7 @@ A passionate full-stack developer who loves building modern, responsive, and use
 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fariha-promi-b5baa619b/)
-- 🌐 [Portfolio](https://farihapromiportfolio.netlify.app/)
+- 🌐 [Portfolio](https://fariha-akter-promi-portfolio.netlify.app/)
 - 📧 Email:farihapromi2611@gmail.com
 - 💻 [GitHub](https://github.com/farihapromi)
 
